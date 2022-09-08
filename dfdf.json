@@ -1,0 +1,20 @@
+{
+    "car_info": {
+        "car_type": "스타리아",
+        "is_resident": "N",
+        "regi_num": "85나2353",
+        "visit_purpose": "방문"
+    },
+    "ta_history": {
+        "is_facility_damage": "0",
+        "is_people_damage": "0",
+        "num_of_ta": "0"
+    },
+    "time_info": {
+        "departure_time": "2022-08-02-19:34",
+        "entrace_time": "2022-08-22T15:12:00.000Z"
+    }
+    
+
+   
+}
